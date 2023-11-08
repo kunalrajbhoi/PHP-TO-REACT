@@ -32,7 +32,8 @@ function HomeSection() {
                     </h4>
                   </div>
                 </Col>
-
+  
+  
                 <Col xs={12}>
                   <div
                     className="text-center mt-2"
